@@ -1,0 +1,2 @@
+// Project Structure->Modules->{Your Module}->Sources->{Click the folder named java in src/main}
+// searching for Project Structure, you can find it from File menu or press Ctrl+Alt+Shift+S
